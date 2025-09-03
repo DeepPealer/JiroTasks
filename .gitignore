@@ -32,6 +32,8 @@ MANIFEST
 *.manifest
 *.spec
 
+.idea
+.gitignore
 # Installer logs
 pip-log.txt
 pip-delete-this-directory.txt
@@ -139,7 +141,7 @@ celerybeat.pid
 .envrc
 .venv
 env/
-venv/
+../venv/
 ENV/
 env.bak/
 venv.bak/
